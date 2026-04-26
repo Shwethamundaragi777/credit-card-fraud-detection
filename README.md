@@ -53,7 +53,4 @@ Future Improvements
 - Perform hyperparameter tuning for better performance  
 - Deploy the model as a simple web application  
 
----
 
-roject File
-- Jupyter Notebook: `fraud_detection.ipynb`
