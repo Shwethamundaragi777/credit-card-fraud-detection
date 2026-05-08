@@ -43,7 +43,7 @@ Results
 ---
 
 Conclusion
-This project demonstrated that high accuracy does not necessarily indicate effective fraud detection due to class imbalance. While initial models performed well on normal transactions, they failed to detect many fraudulent cases. By applying Random Forest and focusing on evaluation metrics such as recall and confusion matrix, the model improved its ability to identify fraud. This highlights the importance of selecting appropriate models and evaluation metrics in real-world fraud detection systems.
+In conclusion, this study illustrated that although a model may be very accurate, it cannot be considered an efficient detector of fraud because of class imbalance. Although the initial models were highly accurate for detecting normal transactions, they did not perform well when detecting fraud cases. The application of Random Forest and the emphasis on evaluation measures such as recall and confusion matrix led to more efficient detection of frauds.
 
 ---
 
